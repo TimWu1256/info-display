@@ -49,8 +49,7 @@ echo " "                # Pad blank lines for calendar & time to fit
 #--------- DATE -------------------------------------------------------------
 
 # calendar current month with today highlighted.
-# colors 00=bright white, 31=red, 32=green, 33=yellow, 34=blue, 35=purple,
-#        36=cyan, 37=white
+# colors 00=bright white, 31=red, 32=green, 33=yellow, 34=blue, 35=purple, 36=cyan, 37=white
 
 tput sc                 # Save cursor position.
 # Move up 9 lines
