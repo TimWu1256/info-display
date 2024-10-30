@@ -5,6 +5,9 @@
 ```bash
 sudo apt install screenfetch
 ```
+```bash
+sudo apt install ncal
+```
 If you want a colorful clock 
 ```bash
 sudo apt install toilet
@@ -18,4 +21,4 @@ sudo apt install figlet
 ```bash
 source /path/to/info_display.sh
 ```
-If you want to run it automatically when you open the terminal, add the above command to **~/.zshrc**
+If you want to run it automatically when you open the terminal, add the above command to the top of **~/.zshrc**
